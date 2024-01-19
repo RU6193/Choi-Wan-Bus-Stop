@@ -1,1 +1,25 @@
+{  "KMB1" = [
+    {
+        Rt = "3D"
+        D1_Status = ["Y","觀塘（裕民坊）","正常"]
+        D1= [
+            ["歡迎乘坐",3,"九龍巴士",3,"WELCOME ONBOARD",5,0,0,0],
+            [0,"正暉樓",3,0,0,"CHING FAI HOUSE",3,0,0,1],
+            [0,"正康樓",3,0,0,"CHING HONG HOUSE",3,0,0,1],
+            [0,"德愛中學",3,0,0,"TAK OI\nSECONDARY SCHOOL",3,0,0,1],
+            [0,"保良局第一",1.5,"張永慶中學",3,"PLK NO.1 W.H.\nCHEUNG COLLEGE",3,0,0,1],
+            [0,"鑽石山火葬場",3,0,0,"DIAMOND HILL\nCREMATORIUM",3,0,0,1],
+            [0,"富山邨",3,0,0,"FU SHAN ESTATE",3,0,0,1],
+            [0,"斧山道運動場",3,0,0,"HAMMER HILL ROAD\nSPORTS GROUND",3,0,0,1],
+            [0,"彩虹邨碧海樓",3,0,0,"PIK HOI HOUSE\nCHOI HUNG ESTATE",3,0,0,1],
+            [0,"啟業邨",3,0,0,"KAI YIP ESTATE",3,0,0,1],
+            [0,"九龍灣站",3,0,0,"KOWLOON BAY\nSTATION",3,0,0,1],
+            [0,"牛頭角下邨",3,0,0,"LOWER\nNGAU TAU KOK EST",3,0,0,1],
+            [0,"觀塘道休憩處",3,0,0,"KWUN TONG ROAD\nSITTING OUT AREA",3,0,0,1],
+            [0,"創紀之城",3,0,0,"MILLENNIUM CITY",3,0,0,1],
+            [0,"裕民坊總站",3,0,0,"YUE MAN SQUARE\nBUS TERMINUS",3,0,0,1],
+            [0,"巴士總站",3,"多謝乘搭",3,"THANK YOU FOR\nTRAVELLING",5,0,0,0]
+        ]
+    }
+]}
 
